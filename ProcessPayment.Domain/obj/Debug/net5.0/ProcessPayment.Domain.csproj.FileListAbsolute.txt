@@ -1,0 +1,12 @@
+C:\Users\G-Mykel\Desktop\realpayment\ProcessPayment.Domain\bin\Debug\net5.0\ProcessPayment.Domain.deps.json
+C:\Users\G-Mykel\Desktop\realpayment\ProcessPayment.Domain\bin\Debug\net5.0\ProcessPayment.Domain.dll
+C:\Users\G-Mykel\Desktop\realpayment\ProcessPayment.Domain\bin\Debug\net5.0\ref\ProcessPayment.Domain.dll
+C:\Users\G-Mykel\Desktop\realpayment\ProcessPayment.Domain\bin\Debug\net5.0\ProcessPayment.Domain.pdb
+C:\Users\G-Mykel\Desktop\realpayment\ProcessPayment.Domain\obj\Debug\net5.0\ProcessPayment.Domain.csprojAssemblyReference.cache
+C:\Users\G-Mykel\Desktop\realpayment\ProcessPayment.Domain\obj\Debug\net5.0\ProcessPayment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G-Mykel\Desktop\realpayment\ProcessPayment.Domain\obj\Debug\net5.0\ProcessPayment.Domain.AssemblyInfoInputs.cache
+C:\Users\G-Mykel\Desktop\realpayment\ProcessPayment.Domain\obj\Debug\net5.0\ProcessPayment.Domain.AssemblyInfo.cs
+C:\Users\G-Mykel\Desktop\realpayment\ProcessPayment.Domain\obj\Debug\net5.0\ProcessPayment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\G-Mykel\Desktop\realpayment\ProcessPayment.Domain\obj\Debug\net5.0\ProcessPayment.Domain.dll
+C:\Users\G-Mykel\Desktop\realpayment\ProcessPayment.Domain\obj\Debug\net5.0\ref\ProcessPayment.Domain.dll
+C:\Users\G-Mykel\Desktop\realpayment\ProcessPayment.Domain\obj\Debug\net5.0\ProcessPayment.Domain.pdb
